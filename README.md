@@ -133,5 +133,5 @@ $ npm run refresh_os --start=1 --end=100
 - Refreshes the listing for the specified editions on OpenSea.
 - Both the `--start` and `--end` flags are required.
 
-## Reference the [video](https://youtu.be/cLB7u0KQFIs) for more details.
+
 "# AG_minter_dapp" 
